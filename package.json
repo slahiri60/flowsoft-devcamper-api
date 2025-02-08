@@ -9,9 +9,11 @@
   "author": "Soumitra Lahiri",
   "license": "MIT",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "dotenv": "^10.0.0",
     "express": "^4.17.2",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^6.1.5",
     "morgan": "^1.10.0",
     "node-geocoder": "^4.4.1",
